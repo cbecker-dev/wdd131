@@ -21,7 +21,7 @@ console.log(result);
 result = one + Number(two);
 console.log(result);
 
-// Scope
+// S
 
 let course = "CSE131"; //global scope
 if (true) {
