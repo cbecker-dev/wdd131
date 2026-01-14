@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  border: 1px solid #bdbdbd;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 6px;
+  margin: 0;
+}
+
+#school {
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 14px;
+  margin-top: 18px;
+  color: #0a4ea6;
+}
+
+hr {
+  width: 75%;
+  margin: 20px auto 30px auto;
+}
+
+#statement {
+  width: 75%;
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+#lead-in {
+  font-style: italic;
+  margin-top: 20px;
+}
+
+.list {
+  margin-top: 10px;
+}
+
+.list li {
+  margin: 12px 0;
+}
+
+#logo {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#logo img {
+  width: 220px;
+  height: auto;
+}
