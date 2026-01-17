@@ -16,7 +16,7 @@ function changeTheme() {
         document.body.style.backgroundColor = "#fff";
         document.body.style.color = '#111'
 
-        document.querySelector('#school').style.color = '#00008B';
+        document.querySelector('#school').style.color = '#0a4ea6';
 
         logo.setAttribute('src', 'images/byui-logo.png');
     }
