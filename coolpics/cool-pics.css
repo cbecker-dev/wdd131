@@ -33,6 +33,16 @@ nav {
   margin-top: 10px;
 }
 
+nav.open {
+  display: block;
+}
+
+nav.open a {
+  display: block;
+  margin: 8px 0;
+  font-size: 14px;
+}
+
 nav a {
   color: white;
   text-decoration: none;
