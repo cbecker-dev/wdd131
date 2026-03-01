@@ -1,5 +1,5 @@
 
-const articles = [
+const blogs = [
 	{
 		id: 1,
 		title: 'Septimus Heap Book One: Magyk',
@@ -52,7 +52,7 @@ const blogList = document.querySelector('#blog-list');
             <p><strong>Recommended Age:</strong> ${blog.ages}</p>
             <p><strong>Genre:</strong> ${blog.genre}</p>
             <p><strong>Rating:</strong> <span aria-label="${blog.stars.length} out of 5 stars" role="img">${blog.stars}</span></p>
-            <p class='desc'>${blog.description}</p>
+            <p id='desc'>${blog.description}</p>
         `
 
 article.innerHTML += html;
