@@ -22,26 +22,26 @@ header, footer {
     color: #ffc107;
     text-decoration: none;
 }
-#movie-list {
+#blog-list {
     padding: 0 2rem;
 }
-.movie {
+.blog {
     border: 2px solid #ccc;
     padding: 1rem;
     border-radius: 10px;
     max-width: 700px;
     margin: 20px auto;
 }
-.movie h2 {
+.blog h2 {
     color: #b30059;
     font-size: 1.5rem;
     text-align: center;
     margin: 20px;
 }
-.movie p {
+.blog p {
     padding-left: 20px;
 }
-.movie img {
+.blog img {
     max-width: 100%;
     display: block;
     border-radius: 8px;
@@ -57,12 +57,12 @@ header, footer {
         grid-template-columns: 100px 100px 100px;
         justify-content: center;
     }
-    .movie {
+    .blog {
         display: grid;
         grid-template-columns: 1fr 1fr;
         justify-content: center;
     }
-    .movie img {
+    .blog img {
         grid-row: 1/6;
         grid-column: 1/2;
     }
