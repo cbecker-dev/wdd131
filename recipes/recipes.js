@@ -73,7 +73,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '30 min',
 		datePublished: '2018-09-19',
-		tags: ['Potatoes', 'side'],
+		tags: ['Potatoes', 'Side'],
 		description:
 			'Easy and delicious oven roasted potatoes that go great with almost anything.',
 		image: './images/roasted-potatoes.webp',
@@ -103,7 +103,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '20 min',
 		datePublished: '2018-09-19',
-		tags: ['Southwest', 'entree'],
+		tags: ['Southwest', 'Entree'],
 		description:
 			'Black beans and tomatoes served over a bed of rice. Top with cheese and scoop up with tortilla chips for maximum enjoyment.',
 		image: './images/black-beans-and-rice.jpg',
@@ -136,7 +136,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '30 min',
 		datePublished: '2018-09-19',
-		tags: ['chicken', 'entree', 'Indian'],
+		tags: ['Chicken', 'Entree', 'Indian'],
 		description:
 			'Quick and easy Chicken curry recipe made with easy to find ingredients.',
 		image: './images/chicken-curry.webp',
@@ -174,7 +174,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '11 min',
 		datePublished: '2018-09-19',
-		tags: ['dessert'],
+		tags: ['Dessert'],
 		description: 'Delicious soft chocolate chip cookies with coconut.',
 		image: './images/chocolate-chip-cookies.jpg',
 		recipeIngredient: [
@@ -208,7 +208,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '45min',
 		datePublished: '2023-10-10',
-		tags: ['dessert', 'German'],
+		tags: ['Dessert', 'German'],
 		description:
 			"This gooseberry cake with crumble is easy to follow, a bit tart and not too sweet. Made up of a cake base, filled with fresh gooseberries and vanilla cream and finished off with crumble that's flavored with vanilla. A must have recipe for gooseberry lovers!!",
 		image: './images/german-gooseberry-cake.jpg',
@@ -251,7 +251,7 @@ const recipes = [
 		isBasedOn: '',
 		cookTime: '45min',
 		datePublished: '2023-10-10',
-		tags: ['dessert'],
+		tags: ['Dessert'],
 		description:
 			"This apple crisp recipe is a simple yet delicious fall dessert that's great served warm with vanilla ice cream.",
 		image: './images/apple-crisp.jpg',
