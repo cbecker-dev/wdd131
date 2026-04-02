@@ -1,6 +1,6 @@
 :root {
   --primary-color: #2f5d50;
-  --secondary-color: #d97a4a;
+  --secondary-color: #b85c30;
   --accent1-color: #f4efe6;
   --accent2-color: #1f2933;
   --white: #ffffff;
@@ -74,7 +74,7 @@ nav {
 }
 
 nav a {
-  color: var(--white);
+  color: #000;
   text-decoration: none;
   padding: 0.9rem 1rem;
   text-align: center;
